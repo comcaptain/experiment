@@ -1,0 +1,19 @@
+.cube-cell {
+	-fx-font-family: "consolas";
+	-fx-font-size: 20px;
+	-fx-background-color: #bbada0;
+	-fx-text-fill: white;
+}
+.readonly-cell {
+	-fx-background-color: #F3D774;
+	-fx-text-fill: black;
+}
+.odd-cell.readonly-cell {
+	-fx-background-color: #f2b179;
+	-fx-text-fill: white;
+}
+#new-game {
+	-fx-background-color: #8f7a66;
+	-fx-text-fill: white;
+	-fx-font-size: 16px;
+}
